@@ -1,34 +1,29 @@
 ## Project Overview
-In this project, I developed an optimization model to improve the logistics network for Lavazza, a global coffee producer. The goal was to assess cost-saving opportunities by redesigning the network to incorporate an additional satellite warehouse. Using linear programming, the model evaluates various scenarios to identify optimal warehouse locations and distribution methods, reducing transportation costs by over 15%.
+This project involved developing an optimization model to enhance the logistics network for Lavazza, a leading global coffee producer. The objective was to identify cost-saving opportunities by re-evaluating the network structure and considering the introduction of a satellite warehouse. The model analyzed various scenarios to determine the optimal warehouse configuration, aiming to reduce transportation costs by over 15%.
 
 The analysis focused on:
-- Evaluating Lavazza's current logistics network and identifying inefficiencies.
-- Developing an optimization model to explore the impact of introducing a satellite warehouse.
-- Providing actionable recommendations to improve Lavazza’s operational efficiency and customer satisfaction.
+- Assessing Lavazza’s existing logistics network and identifying inefficiencies.
+- Utilizing optimization techniques to evaluate the impact of adding a satellite warehouse.
+- Providing actionable insights to improve Lavazza’s operational efficiency and customer satisfaction.
 
 ## Technologies Used
-- **Python**: Data processing and linear programming model development
-- **Pandas, NumPy**: Data manipulation and processing
-- **Microsoft Excel**: Scenario analysis and data visualization
-- **Canva**: Presentation of findings and recommendations
+- **Microsoft Excel**: Used for building the optimization model, performing scenario analysis, and visualizing results.
+- **PowerPoint**: Created a business-oriented presentation to summarize findings, methodology, and recommendations.
 
 ## Repository Structure
-- `Data/`: Contains logistics data used for model inputs and cost calculations.
-- `Code/`: Jupyter Notebook for the optimization model and analysis (`Compagnone_Stefano_Lavazza_Optimization.ipynb`).
-- `Output/`: Final report and presentation file (`Lavazza Case - Team 9.pdf`).
+- `Data/`: Contains logistics data utilized for the optimization model and cost analysis.
+- `Output/`: Includes the final report and presentation file (`Lavazza Case - Team 9.pdf`).
 
 ## Key Insights
-- Implementing an additional satellite warehouse can reduce Lavazza’s logistics costs by approximately 15.36%.
-- The model identified Warehouse 4 as the optimal location for the satellite warehouse, resulting in the lowest total cost.
-- Switching from less-than-truckload (LTL) to full-truckload (FTL) deliveries in certain routes contributed significantly to the cost savings.
+- Introducing a satellite warehouse could reduce Lavazza's logistics costs by approximately 15.36%.
+- The optimization model identified Warehouse 4 as the most cost-effective location for the satellite warehouse, resulting in minimized total logistics costs.
+- The analysis revealed that switching from less-than-truckload (LTL) to full-truckload (FTL) in specific routes could significantly reduce overall expenses.
 
 ## Instructions
 1. Clone this repository.
-2. Open the Jupyter Notebook (`Compagnone_Stefano_Lavazza_Optimization.ipynb`) in Jupyter or any compatible environment.
-3. Ensure that required libraries (like `pandas`, `numpy`, and `scipy.optimize`) are installed.
-4. Run the notebook to explore data analysis, model scenarios, and optimization results.
-5. Review the final recommendations in `Output/Lavazza Case - Team 9.pdf`.
+2. Review the logistics data and optimization model details in `Data/`.
+3. Open and review the final presentation in `Output/Lavazza Case - Team 9.pdf` for detailed analysis and business recommendations.
+4. Examine the Excel model (`Final Team Assignment - Lavazza Case.xlsx`) to understand the scenario analysis and cost-saving calculations.
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefano-compagnone98/) for more information or explore my other projects on GitHub.
-
