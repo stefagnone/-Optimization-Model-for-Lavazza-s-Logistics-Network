@@ -12,7 +12,7 @@ The analysis focused on:
 
 ## Repository Structure
 - `Data/`: Contains logistics data utilized for the optimization model and cost analysis.
-- `Output/`: Includes the final report and presentation file (`Lavazza Case - Team 9.pdf`).
+- `Output/`: Includes the final report(`Lavazza Case.pdf`) and presentation file.
 
 ## Key Insights
 - Introducing a satellite warehouse could reduce Lavazza's logistics costs by approximately 15.36%.
@@ -22,8 +22,8 @@ The analysis focused on:
 ## Instructions
 1. Clone this repository.
 2. Review the logistics data and optimization model details in `Data/`.
-3. Open and review the final presentation in `Output/Lavazza Case - Team 9.pdf` for detailed analysis and business recommendations.
-4. Examine the Excel model (`Final Team Assignment - Lavazza Case.xlsx`) to understand the scenario analysis and cost-saving calculations.
+3. Open and review the final presentation in `Output/Lavazza Case.pdf` for detailed analysis and business recommendations.
+4. Examine the Excel model (`Final_Output_Excel.xlsx`) to understand the scenario analysis and cost-saving calculations.
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefano-compagnone98/) for more information or explore my other projects on GitHub.
